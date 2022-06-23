@@ -1,0 +1,664 @@
+[
+{
+"identity": 1,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 4,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 6,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 7,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 8,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 9,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 10,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 11,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 12,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 13,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 14,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 15,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 16,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 18,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 19,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 20,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 21,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 24,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 25,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 30,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 31,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 32,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 33,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 34,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 35,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 44,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 51,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 64,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 71,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 72,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 75,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 76,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 78,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 89,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 90,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 94,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 96,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 98,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 99,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 100,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 101,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 104,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 105,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 106,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 107,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 108,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 109,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 114,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 115,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 116,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 117,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 118,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 119,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 120,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 121,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 122,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 123,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 124,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 125,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 126,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 127,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 128,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 129,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 130,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 131,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 132,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 133,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 134,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 135,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 136,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 137,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 138,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 139,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 140,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 141,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 142,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+][
+{
+"identity": 143,
+"lifetimeEstimation": 407,
+"rmngLifetimeEstimation": 406,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+},
+{
+"identity": 144,
+"lifetimeEstimation": 313,
+"rmngLifetimeEstimation": 313,
+"estimationStatus": 2,
+"socEstimation": 99,
+"version": "GetLifeTime version 1.2.1 2022-03-07 12:22:15"
+}
+]
